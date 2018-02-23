@@ -27,7 +27,6 @@ test('Non-exact DASH addresses', t => {
 	for (const x of fixtures) {
 		t.is((m().exec(`foo ${x} bar`) || [])[0], x);
 	}
-	
 	t.is(m().exec('dogecoin:XbtvGzi2JgjYTbTqabUjSREWeovDxznoyh')[0], 'XbtvGzi2JgjYTbTqabUjSREWeovDxznoyh');
 });
 
