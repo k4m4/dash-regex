@@ -48,7 +48,6 @@ Only match an exact string. Useful with `RegExp#test()` to check if a string is 
 - [ethereum-regex](https://github.com/k4m4/ethereum-regex) - Regular expression for matching Ethereum (ETH) addresses.
 - [litecoin-regex](https://github.com/k4m4/litecoin-regex) - Regular expression for matching Litecoin (LTC) addresses.
 - [bitcoincash-regex](https://github.com/k4m4/bitcoincash-regex) - Regular expression for matching Bitcoin Cash (BCH) addresses.
-- [dash-regex](https://github.com/k4m4/dash-regex) - Regular expression for matching Dash addresses.
 - [dogecoin-regex](https://github.com/k4m4/dogecoin-regex) - Regular expression for matching Dogecoin (DOGE) addresses.
 
 
